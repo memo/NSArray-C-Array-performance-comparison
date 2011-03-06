@@ -1,0 +1,268 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Array_Speed_TestAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1557, 978}}";
+			sepNavSelRange = "{946, 0}";
+			sepNavVisRange = "{0, 1316}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Array_Speed_TestAppDelegate.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1557, 978}}";
+			sepNavSelRange = "{946, 0}";
+			sepNavVisRange = "{0, 1447}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ArraySpeedTest2 */ = {
+		activeExec = 0;
+		executables = (
+			BB94B8F30F3B050100AA9DA6 /* ArraySpeedTest2 */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Array_Speed_TestViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1557, 978}}";
+			sepNavSelRange = "{946, 0}";
+			sepNavVisRange = "{0, 1644}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Array_Speed_TestViewController.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1557, 1846}}";
+			sepNavSelRange = "{946, 0}";
+			sepNavVisRange = "{0, 2348}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = BB94B8F30F3B050100AA9DA6 /* ArraySpeedTest2 */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ArraySpeedTest2 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ArraySpeedTest2 */,
+		);
+		codeSenseManager = BB94B8FA0F3B050500AA9DA6 /* Code sense */;
+		executables = (
+			BB94B8F30F3B050100AA9DA6 /* ArraySpeedTest2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1379,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1339,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321120200;
+			PBXWorkspaceStateSaveDate = 321120200;
+		};
+		perUserProjectItems = {
+			BB94BA2C0F3B19A800AA9DA6 /* PlistBookmark */ = BB94BA2C0F3B19A800AA9DA6 /* PlistBookmark */;
+			BB9FC0081323E8BB007BC1A4 /* PBXTextBookmark */ = BB9FC0081323E8BB007BC1A4 /* PBXTextBookmark */;
+			BB9FC0091323E8BB007BC1A4 /* PBXTextBookmark */ = BB9FC0091323E8BB007BC1A4 /* PBXTextBookmark */;
+			BB9FC00A1323E8BB007BC1A4 /* PBXTextBookmark */ = BB9FC00A1323E8BB007BC1A4 /* PBXTextBookmark */;
+			BB9FC00B1323E8BB007BC1A4 /* PBXTextBookmark */ = BB9FC00B1323E8BB007BC1A4 /* PBXTextBookmark */;
+			BB9FC00C1323E8BB007BC1A4 /* PBXTextBookmark */ = BB9FC00C1323E8BB007BC1A4 /* PBXTextBookmark */;
+			BB9FC00D1323E8BB007BC1A4 /* PBXTextBookmark */ = BB9FC00D1323E8BB007BC1A4 /* PBXTextBookmark */;
+			BB9FC00E1323E8BB007BC1A4 /* PBXTextBookmark */ = BB9FC00E1323E8BB007BC1A4 /* PBXTextBookmark */;
+			BB9FC0301323E9DB007BC1A4 /* PBXTextBookmark */ = BB9FC0301323E9DB007BC1A4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = BB94B8F90F3B050500AA9DA6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	BB8A068E0F3B2D230016DD44 /* MyNSObject.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1557, 978}}";
+			sepNavSelRange = "{1084, 0}";
+			sepNavVisRange = "{0, 1084}";
+		};
+	};
+	BB8A068F0F3B2D230016DD44 /* MyNSObject.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1557, 978}}";
+			sepNavSelRange = "{946, 0}";
+			sepNavVisRange = "{0, 1054}";
+		};
+	};
+	BB8A06930F3B2D630016DD44 /* MyCppObject.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1557, 978}}";
+			sepNavSelRange = "{199, 0}";
+			sepNavVisRange = "{0, 1041}";
+		};
+	};
+	BB94B8F30F3B050100AA9DA6 /* ArraySpeedTest2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ArraySpeedTest2;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	BB94B8F90F3B050500AA9DA6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	BB94B8FA0F3B050500AA9DA6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BB94BA2C0F3B19A800AA9DA6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/memo/Lab/iPhone/Array Speed Test/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	BB9FC0081323E8BB007BC1A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Array_Speed_TestViewController.mm */;
+		name = "Array_Speed_TestViewController.mm: 22";
+		rLen = 0;
+		rLoc = 946;
+		rType = 0;
+		vrLen = 2348;
+		vrLoc = 0;
+	};
+	BB9FC0091323E8BB007BC1A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Array_Speed_TestViewController.h */;
+		name = "Array_Speed_TestViewController.h: 22";
+		rLen = 0;
+		rLoc = 946;
+		rType = 0;
+		vrLen = 1644;
+		vrLoc = 0;
+	};
+	BB9FC00A1323E8BB007BC1A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Array_Speed_TestAppDelegate.mm */;
+		name = "Array_Speed_TestAppDelegate.mm: 22";
+		rLen = 0;
+		rLoc = 946;
+		rType = 0;
+		vrLen = 1447;
+		vrLoc = 0;
+	};
+	BB9FC00B1323E8BB007BC1A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Array_Speed_TestAppDelegate.h */;
+		name = "Array_Speed_TestAppDelegate.h: 22";
+		rLen = 0;
+		rLoc = 946;
+		rType = 0;
+		vrLen = 1316;
+		vrLoc = 0;
+	};
+	BB9FC00C1323E8BB007BC1A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BB8A06930F3B2D630016DD44 /* MyCppObject.h */;
+		name = "MyCppObject.h: 6";
+		rLen = 0;
+		rLoc = 199;
+		rType = 0;
+		vrLen = 1041;
+		vrLoc = 0;
+	};
+	BB9FC00D1323E8BB007BC1A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BB8A068F0F3B2D230016DD44 /* MyNSObject.m */;
+		name = "MyNSObject.m: 22";
+		rLen = 0;
+		rLoc = 946;
+		rType = 0;
+		vrLen = 1054;
+		vrLoc = 0;
+	};
+	BB9FC00E1323E8BB007BC1A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BB8A068E0F3B2D230016DD44 /* MyNSObject.h */;
+		name = "MyNSObject.h: 22";
+		rLen = 0;
+		rLoc = 946;
+		rType = 0;
+		vrLen = 1084;
+		vrLoc = 0;
+	};
+	BB9FC0301323E9DB007BC1A4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BB8A068E0F3B2D230016DD44 /* MyNSObject.h */;
+		name = "MyNSObject.h: 39";
+		rLen = 0;
+		rLoc = 1084;
+		rType = 0;
+		vrLen = 1084;
+		vrLoc = 0;
+	};
+}
